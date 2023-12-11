@@ -1,17 +1,24 @@
 # 💫 About Me:
 
-🔭 I’m currently working on
-<br>👯 I’m looking to collaborate on
-<br>🤝 I’m looking for help with
-<br>🌱 I’m currently learning
-<br>💬 Ask me about
-<br>⚡ Fun fact
+Hello there! 👋 I'm Aaqil Shihab, a passionate software engineer and tech enthusiast with a knack for turning ideas into reality through code. I thrive on challenges and enjoy tackling complex problems to create elegant and efficient solutions.
 
-## 🌐 Socials:
+### 💻 Technical Skills
+
+- **Languages:** I'm proficient in Python, Java, c++ and Javascript, with a particular focus on web development.
+- **Technologies:** I have hands-on experience with PostgreSQL, MongoDB, AWS, Firebase, Docker and I'm always eager to learn and adopt new technologies.
+- **Frameworks:** I've worked extensively with Flutter, React, Django and Firebase, leveraging their power to build robust and scalable applications.
+
+## 🌱 What I'm Currently Learning
+
+I believe in continuous improvement, and I'm currently focused on enhancing my skills in serverless architecture. I'm excited about cloud development and how they can be applied to solve real-world problems.
+
+## 🤝 Let's Connect
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aaqilsh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aaqilsh) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aaqilsh)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13455835)
+
+Thanks for stopping by, and happy coding! 🚀
 
 # 💻 Tech Stack:
 
