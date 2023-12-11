@@ -4,7 +4,7 @@ Hello there! 👋 I'm Aaqil Shihab, a passionate software engineer and tech enth
 
 ### 💻 Technical Skills
 
-- **Languages:** I'm proficient in Python, Java, c++ and Javascript, with a particular focus on web development.
+- **Languages:** I'm proficient in Python, Java, C++ and Javascript, with a particular focus on web development.
 - **Technologies:** I have hands-on experience with PostgreSQL, MongoDB, AWS, Firebase, Docker and I'm always eager to learn and adopt new technologies.
 - **Frameworks:** I've worked extensively with Flutter, React, Django and Firebase, leveraging their power to build robust and scalable applications.
 
