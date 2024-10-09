@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hello there! 👋 I'm Aaqil Shihab, a passionate software engineer and tech enthusiast with a knack for turning ideas into reality through code. I thrive on challenges and enjoy tackling complex problems to create elegant and efficient solutions.
+Hello there! 👋 I'm Aqil Shihab, a passionate software engineer and tech enthusiast with a knack for turning ideas into reality through code. I thrive on challenges and enjoy tackling complex problems to create elegant and efficient solutions.
 
 ### 💻 Technical Skills
 
